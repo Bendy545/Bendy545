@@ -2,7 +2,7 @@
 
 My name is Martin, and I'm a computer science student at SPŠE Ječná
 
-- I’m currently working on [printer-spooler](https://github.com/Bendy545/printer-spooler-problem.git) and [charging station analysis](https://github.com/Bendy545/charging_stations.git)
+- I’m currently working on [RV-rental-app](https://github.com/Bendy545/RV-rental-app.git) and [charging station analysis](https://github.com/Bendy545/charging_stations.git)
 
 
 <!--
