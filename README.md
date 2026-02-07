@@ -2,7 +2,7 @@
 
 My name is Martin, and I'm a computer science student at SPŠE Ječná
 
-- I’m currently working on [P2P-bank-system](https://github.com/Bendy545/P2P-bank-system.git) and [charging station analysis](https://github.com/Bendy545/charging_stations.git)
+- I’m currently working on [Prague-Rent-Predictor](https://github.com/Bendy545/Prague-Rent-Predictor.git) and [charging station analysis](https://github.com/Bendy545/charging_stations.git)
 
 
 <!--
