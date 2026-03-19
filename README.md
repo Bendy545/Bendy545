@@ -2,7 +2,7 @@
 
 My name is Martin, and I'm a computer science student at SPŠE Ječná
 
-- I’m currently working on [Prague-Rent-Predictor](https://github.com/Bendy545/Prague-Rent-Predictor.git) and [charging station analysis](https://github.com/Bendy545/charging_stations.git)
+- I’m currently working on [CS2-Match-Predictor](https://github.com/Bendy545/CS2-Match-Predictor.git)
 
 
 <!--
