@@ -2,9 +2,6 @@
 
 My name is Martin, and I'm a computer science student at SPŠE Ječná
 
-- I’m currently working on [CS2-Match-Predictor](https://github.com/Bendy545/CS2-Match-Predictor.git)
-
-
 <!--
 **Bendy545/Bendy545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
